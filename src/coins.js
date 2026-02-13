@@ -1,5 +1,6 @@
 //input coin quantity
 export function coinsTotal(nickels, dimes, quarters, loonies, toonies) {
+  
   // processing
   let total =
     nickels * 0.05 +
