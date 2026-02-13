@@ -8,7 +8,7 @@ export function coinsTotal(nickels, dimes, quarters, loonies, toonies) {
     loonies * 1.00 +
     toonies * 2.00;
 
-  // output
+  // output amount in dollars
   return total;
 }
 
